@@ -1,0 +1,98 @@
+{
+  "place_id": "ChIJ4WB3HXCzxokR7q1PjlsZKto",
+  "name": "Handyman Care Swedesboro",
+  "phone": "(856) 317-6537",
+  "phone_digits": "(856) 317-6537",
+  "address": "1344 Kings Hwy, Swedesboro, NJ 08085, USA",
+  "rating": "3",
+  "review_count": "6",
+  "hours": "Monday: 5:00 AM-9:00 PM | Tuesday: 5:00 AM-9:00 PM | Wednesday: 5:00 AM-9:00 PM | Thursday: 5:00 AM-9:00 PM | Friday: 5:00 AM-9:00 PM",
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "confirmed_services": [
+    "plumbing repairs",
+    "doors windows",
+    "drywall",
+    "fixtures",
+    "fixture",
+    "painting"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "author": "Erkan \u00dcsk\u00fcp\u00fc",
+      "text": "I can really say that Handyman Care Swedesboro  is the best in the industry when it comes to handyman services.\n\nYou can always trust them to provide amazing end results.\n\nKeep it up!\nAmazing timing and service!"
+    },
+    {
+      "stars": 5,
+      "author": "Lucian Mendez",
+      "text": "I hired Handyman Care Swedesboro for a handyman service. The  handyman the company sent did a great job on time and on budget. I would hire from Handyman Care Swedesboro again and highly recommend Handyman Care Swedesboro to anyone looking for a highly reliable handyman service."
+    },
+    {
+      "stars": 5,
+      "author": "K Yates",
+      "text": "This company deserve a five star rating! I have been enjoying my baths with a precise temperature I desire now after Handyman Care Swedesboro changed my single lever faucet. So convenient!"
+    }
+  ],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": "randyrossi@yahoo.com",
+  "city": "Swedesboro",
+  "state": "NJ",
+  "zip": "08085",
+  "business_name": "Handyman Care Swedesboro",
+  "trade": "handyman",
+  "schema_type": "HomeAndConstructionBusiness",
+  "years_in_business": 5,
+  "railway_url": "",
+  "canonical_url": "",
+  "lat": 40.2,
+  "lng": -75.3,
+  "service_descriptions": {
+    "plumbing repairs": "Minor plumbing repairs including leaky faucets, running toilets, and fixture swaps.",
+    "doors windows": "Door and window installation, adjustment, weatherstripping, and hardware repair.",
+    "drywall": "Drywall installation, patching, and finishing for walls and ceilings of any size.",
+    "fixtures": "Fixture installation including light fixtures, ceiling fans, and bathroom accessories.",
+    "fixture": "Fixture installation including light fixtures, ceiling fans, and bathroom accessories.",
+    "painting": "Interior and exterior painting with clean preparation and professional results."
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free estimates?",
+      "a": "Yes, we provide free estimates before starting any project so you know exactly what to expect."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Yes, we carry full liability insurance for every job, protecting you and your property."
+    },
+    {
+      "q": "How far in advance do I need to book?",
+      "a": "We typically can schedule within a few days, and we work to accommodate urgent requests whenever possible."
+    },
+    {
+      "q": "What size jobs do you handle?",
+      "a": "We handle everything from small repairs to larger multi-day projects. No job is too small."
+    },
+    {
+      "q": "Do you charge by the hour or by the project?",
+      "a": "We price both ways depending on the scope. We will give you a clear estimate upfront."
+    }
+  ],
+  "stat1_value": "3\u2605",
+  "stat1_label": "Google Rating",
+  "stat2_value": "6+",
+  "stat2_label": "Customer Reviews",
+  "stat3_value": "Free",
+  "stat3_label": "Estimates",
+  "stat4_value": "Licensed",
+  "stat4_label": "& Insured"
+}
